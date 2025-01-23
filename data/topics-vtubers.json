@@ -7,7 +7,7 @@
         {
           "title": "彩虹社",
           "description": "ただ謳おう Virtual to LIVE",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/9/96/Nijisanji_Logo_Vertical.jpg/280px-Nijisanji_Logo_Vertical.jpg"
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/8/8f/Nijisanji_Logo2c.png/240px-Nijisanji_Logo2c.png"
         },
         {
           "title": "VirtuaReal",
@@ -17,7 +17,7 @@
         {
           "title": "虚研社",
           "description": "梦的船桨不会停息 Best Best Sailing",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/0/0d/%E8%99%9A%E7%A0%94%E7%A4%BE%E6%96%B0logo.jpg/280px-%E8%99%9A%E7%A0%94%E7%A4%BE%E6%96%B0logo.jpg"
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/de/%E8%99%9A%E7%A0%94%E7%A4%BE%E5%8E%BB%E5%BA%95logo.png/240px-%E8%99%9A%E7%A0%94%E7%A4%BE%E5%8E%BB%E5%BA%95logo.png"
         },
         {
           "title": "A-SOUL",
@@ -30,14 +30,15 @@
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/0/0c/%E5%B8%95%E9%87%8C%E4%B8%AA%E4%BA%BALogo.png/280px-%E5%B8%95%E9%87%8C%E4%B8%AA%E4%BA%BALogo.png"
         },
         {
-          "title": "hOuOu",
+          "title": "HOuOu",
+          "displayTitle": "hOuOu",
           "description": "一起闪闪发光吧！",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/9/94/LogohOuOu.png/420px-LogohOuOu.png"
         },
         {
           "title": "神椿",
           "description": "Everything starts from here",
-          "imageSrc": "https://img.moegirl.org.cn/common/2/26/KAMITSUBAKI_STUDIO_logo.jpg"
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/f/fd/KAMITSUBAKI_STUDIO.svg/240px-KAMITSUBAKI_STUDIO.svg.png"
         },
         {
           "title": "P-SP",
@@ -47,17 +48,17 @@
         {
           "title": "Noripro",
           "description": "大切な仲間と一緒に みんなの夢を叶える場所",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/4/4d/Noripro_W.jpg/420px-Noripro_W.jpg"
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/6/65/Noripro.svg/320px-Noripro.svg.png"
         },
         {
           "title": "VShojo",
           "description": "Being you is the best avatar you could have",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/f/fc/Vshojo_logo.png/420px-Vshojo_logo.png"
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/d7/VShojo.svg/320px-VShojo.svg.png"
         },
         {
           "title": "卟啵电竞",
           "description": "0.2秒の物語",
-          "imageSrc": "https://img.moegirl.org.cn/common/d/dd/VSPO_%E6%96%B9%E5%BD%A2Logo.jpg"
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/6/64/VSPO%21_icon.svg/240px-VSPO%21_icon.svg.png"
         },
         {
           "title": "星巡学园",
@@ -65,14 +66,14 @@
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/5/5a/Hoshimeguri_Gakuen.webp/420px-Hoshimeguri_Gakuen.webp.png"
         },
         {
-          "title": "Chaoslive",
+          "title": "ChaosLive",
           "description": "保持初心 一同自由、快乐地一边享受着过程一边朝目标努力",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/7/71/ChaosLive%E5%9B%BE%E6%A0%87.png/420px-ChaosLive%E5%9B%BE%E6%A0%87.png"
         },
         {
           "title": "猫邮社",
           "description": "写一封温柔信件 打破时空的界限 让羁绊连接每一个次元",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/e/e1/%E7%8C%AB%E9%82%AE%E7%A4%BElogo.png/420px-%E7%8C%AB%E9%82%AE%E7%A4%BElogo.png"
+          "imageSrc": "https://img.moegirl.org.cn/common/4/40/%E7%8C%AB%E9%82%AE%E7%A4%BE.png"
         },
         {
           "title": "虚研学园",
@@ -82,12 +83,18 @@
         {
           "title": "四禧丸子",
           "description": "光芒耀眼 无法隐藏！",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/2/25/Sixiwanzi_temp.jpg/420px-Sixiwanzi_temp.jpg"
+          "imageSrc": "https://img.moegirl.org.cn/common/8/88/%E5%9B%9B%E7%A6%A7%E4%B8%B8%E5%AD%90.png"
         },
         {
           "title": "Elf of Era",
           "description": "精灵齐聚 可爱升级",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/1/19/EOE%E5%A5%B3%E5%9B%A2%EF%BC%88logo-%E6%8F%8F%E8%BE%B9%EF%BC%89.png/420px-EOE%E5%A5%B3%E5%9B%A2%EF%BC%88logo-%E6%8F%8F%E8%BE%B9%EF%BC%89.png"
+        },
+        {
+          "title": "Hololive",
+          "displayTitle": "hololive",
+          "description": "あたらしい日常は すぐそばにいる",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/9/93/Hololive_Icon.svg/188px-Hololive_Icon.svg.png"
         }
       ]
     },
@@ -96,206 +103,192 @@
       "label": "汉语",
       "pages": [
         {
-          "title": "小希小桃",
-          "description": "小希小桃是虚研社所属的虚拟UP主组合，B站和中国大陆的第一个中文虚拟UP主企划，包含小希、小桃两位虚拟UP主，于2017年8月12日开始活动。2020年11月6日前使用频道名为虚拟次元计划。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/8/80/%E5%B0%8F%E5%B8%8C%E5%B0%8F%E6%A1%83%E4%B8%AA%E6%80%A7%E8%A3%85%E6%89%AE%E9%A2%84%E8%A7%88.jpg/280px-%E5%B0%8F%E5%B8%8C%E5%B0%8F%E6%A1%83%E4%B8%AA%E6%80%A7%E8%A3%85%E6%89%AE%E9%A2%84%E8%A7%88.jpg"
-        },
-        {
           "title": "泠鸢yousa",
-          "description": "泠鸢（Líng Yuān）yousa是活跃于网络的多元化歌手、词作、曲作。于2019年3月9日首次使用虚拟形象直播，现为虚拟艺人团体VirtuaReal Star成员。",
+          "description": "活跃于网络的多元化歌手、词作、曲作，曾为VirtuaReal Star的成员，现以个人势活跃。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/6/6e/%E6%B3%A0%E9%B8%A2yousa.png/280px-%E6%B3%A0%E9%B8%A2yousa.png"
         },
         {
           "title": "嘉然",
-          "description": "嘉然（Diana） 是一名从2020年11月26日开始在bilibili及抖音活动的虚拟UP主，所属团体为虚拟偶像女团A-SOUL。",
+          "description": "虚拟偶像女团A-SOUL的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/3/3c/%E5%98%89%E7%84%B6Diana.jpg/200px-%E5%98%89%E7%84%B6Diana.jpg"
         },
         {
           "title": "白神遥",
-          "description": "白神遥(Shirakami Haruka),是隶属于Project SP的一名虚拟UP主，于2019年11月10日正式开始在Bilibili活动。",
+          "description": "虚拟艺人团体psplive的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/8/8a/%E7%99%BD%E7%A5%9E%E9%81%A5Haruka.jpg/280px-%E7%99%BD%E7%A5%9E%E9%81%A5Haruka.jpg"
         },
         {
           "title": "早稻叽",
-          "description": "早稻叽（日语：早稲）是活跃在bilibili上的歌势虚拟UP主",
+          "description": "虚拟主播企划ChaosLive的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/4/43/%E6%97%A9%E7%A8%BB%E5%8F%BD%E6%96%B0%E8%A1%A3-jk%E5%88%B6%E6%9C%8D.jpg/280px-%E6%97%A9%E7%A8%BB%E5%8F%BD%E6%96%B0%E8%A1%A3-jk%E5%88%B6%E6%9C%8D.jpg"
         },
         {
           "title": "咩栗",
-          "description": "咩栗是一名从2020年9月12日开始使用虚拟形象在Bilibili活动的个人势虚拟UP主，隶属于VUP组合MeUmy。",
+          "description": "个人势虚拟UP主，VUP组合MeUmy成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/4/4b/%E5%92%A9%E6%A0%97Infobox.jpg/280px-%E5%92%A9%E6%A0%97Infobox.jpg"
         },
         {
           "title": "呜米",
-          "description": "呜米是一名从2020年9月19日开始使用虚拟形象在Bilibili活动的个人势虚拟UP主，隶属于VUP组合MeUmy。",
+          "description": "个人势虚拟UP主，VUP组合MeUmy成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/a/ad/%E5%91%9C%E7%B1%B3%E5%A4%B4%E5%9B%BE.jpg/280px-%E5%91%9C%E7%B1%B3%E5%A4%B4%E5%9B%BE.jpg"
         },
         {
-          "title": "小柔",
-          "description": "小柔是虚研社所属的虚拟UP主，于2018年8月19日宣布开始制作，于2020年12月19日正式在bilibili开始活动。",
+          "title": "小柔(虚拟UP主)",
+          "displayTitle": "小柔",
+          "description": "虚拟偶像事务所虚研社的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/f/f5/%E5%B0%8F%E6%9F%94%28%E8%99%9A%E6%8B%9FUP%E4%B8%BB%29.jpg/280px-%E5%B0%8F%E6%9F%94%28%E8%99%9A%E6%8B%9FUP%E4%B8%BB%29.jpg"
         },
         {
           "title": "扇宝",
-          "description": "扇宝是由齐鼓文化推出的歌势虚拟偶像，擅长杂谈与唱歌。目前在bilibili和酷狗直播都有活动。",
+          "description": "酷狗音乐旗下齐鼓工作室的国风虚拟偶像。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/4/43/%E6%89%87%E5%AE%9D1.jpg/280px-%E6%89%87%E5%AE%9D1.jpg"
         },
         {
           "title": "陆鳐LuLu",
-          "description": "陆鳐LuLu（英语：LuyeeLuLu）是一名从2021年7月17日开始在bilibili活动的个人势虚拟UP主。",
+          "description": "个人势虚拟UP主。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/4/4a/Luyeelulu2.0.jpg/280px-Luyeelulu2.0.jpg"
         },
         {
           "title": "星瞳",
-          "description": "星瞳是QQ炫舞系列虚拟代言人，中国首个虚拟时尚博主，同时也是一位虚拟歌手。2021年6月11号在Bilibili开始以虚拟UP主身份进行直播活动。",
+          "description": "QQ炫舞系列的虚拟代言人，是中国首个虚拟时尚博主，同时也是一位虚拟歌手。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/c/cd/%E6%98%9F%E7%9E%B3%E5%A4%B4%E5%9B%BE.jpeg/280px-%E6%98%9F%E7%9E%B3%E5%A4%B4%E5%9B%BE.jpeg"
         },
         {
           "title": "梦音茶糯",
-          "description": "梦音茶糯（夢音（Yumeoto）ちゃの（Chano））是一名从2021年4月30日在bilibili平台活动（出道）的个人势虚拟UP主。",
+          "description": "个人势虚拟UP主。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/e/e0/%E6%A2%A6%E9%9F%B3%E8%8C%B6%E7%B3%AF%E4%B8%8A%E5%8D%8A%E8%BA%AB%E7%99%BD%E8%83%8C%E6%99%AF.png/280px-%E6%A2%A6%E9%9F%B3%E8%8C%B6%E7%B3%AF%E4%B8%8A%E5%8D%8A%E8%BA%AB%E7%99%BD%E8%83%8C%E6%99%AF.png"
         },
         {
           "title": "七海",
-          "description": "七海（Nanami）是一位隶属于VirtuaReal二期的虚拟UP主，粉丝群体名为“脆鲨”（出自雀巢公司出品的巧克力威化饼干“脆脆鲨”）。",
+          "description": "虚拟艺人企划VirtuaReal的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/a/ad/%E4%B8%83%E6%B5%B7%E7%94%9F%E6%97%A5%E7%BB%982021.png/280px-%E4%B8%83%E6%B5%B7%E7%94%9F%E6%97%A5%E7%BB%982021.png"
         },
         {
           "title": "阿萨",
-          "description": "阿萨（Aza）是一位从2019年11月20日在Bilibili开始活动的虚拟UP主，隶属于VirtuaReal，为该企划的六期生。",
+          "description": "虚拟艺人企划VirtuaReal的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/9/9c/%E9%98%BF%E8%90%A8%E6%96%B0%E5%A4%B4%E5%9B%BE1.png/423px-%E9%98%BF%E8%90%A8%E6%96%B0%E5%A4%B4%E5%9B%BE1.png"
         },
         {
           "title": "永雏塔菲",
-          "description": "永雏塔菲（日语：永雛　タフィー／エイス　タフィー）（英语：Ace Taffy）是一名个人势虚拟偶像。",
+          "description": "个人势虚拟UP主。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/4/4c/Taffy%E5%A4%B4%E5%9B%BE_%E5%8D%8A%E8%BA%AB_large.png/280px-Taffy%E5%A4%B4%E5%9B%BE_%E5%8D%8A%E8%BA%AB_large.png"
         },
         {
           "title": "夏川玥玥",
-          "description": "夏川玥玥是一只从天上的月宫来的小玉兔，由于犯了错（叉掉）在玉兔里面过于优秀，故被指定为兔兔代表到地球考察人类们的生活，学习更多的新知识。",
+          "description": "个人势虚拟UP主。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/1/16/%E7%8E%A5%E7%8E%A5%E5%8D%8A%E8%BA%AB.jpg/280px-%E7%8E%A5%E7%8E%A5%E5%8D%8A%E8%BA%AB.jpg"
         },
         {
           "title": "乃琳",
-          "description": "乃琳（Eileen）是一名从2020年11月26日开始在bilibili及抖音活动的虚拟UP主，所属团体为虚拟偶像女团A-SOUL。",
+          "description": "虚拟偶像女团A-SOUL的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/f/f6/%E4%B9%83%E7%90%B3Eileen.jpg/420px-%E4%B9%83%E7%90%B3Eileen.jpg"
-        },
-        {
-          "title": "向晚",
-          "description": "向晚（Ava）是一名从2020年11月26日开始在bilibili及抖音活动的虚拟UP主，所属团体为虚拟偶像女团A-SOUL。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/8/85/%E5%90%91%E6%99%9AAva.jpg/420px-%E5%90%91%E6%99%9AAva.jpg"
         },
         {
           "title": "贝拉(虚拟UP主)",
           "displayTitle": "贝拉",
-          "description": "贝拉（Bella）是一名从2020年11月26日开始在Bilibili及抖音活动的虚拟UP主，所属团体为虚拟偶像女团A-SOUL。",
+          "description": "虚拟偶像女团A-SOUL的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/c/cf/%E8%B4%9D%E6%8B%89Bella.jpg/420px-%E8%B4%9D%E6%8B%89Bella.jpg"
         },
         {
           "title": "美月桃",
-          "description": "美月桃（美月（みつき）もも / Mitsuki Momo）是一名从2022年10月24日在bilibili开始活动的个人势虚拟UP主。",
+          "description": "个人势虚拟UP主。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/a/af/%E7%BE%8E%E6%9C%88%E6%A1%83%E6%96%B0%E5%A4%B4%E5%9B%BE.png/280px-%E7%BE%8E%E6%9C%88%E6%A1%83%E6%96%B0%E5%A4%B4%E5%9B%BE.png"
         },
         {
           "title": "兰音",
-          "description": "兰音（法语：Reine）是虚研社所属的一名虚拟UP主，于2021年1月2日开始活动。",
+          "description": "虚拟偶像事务所虚研社的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/2/21/%E5%85%B0%E9%9F%B3.png/280px-%E5%85%B0%E9%9F%B3.png"
         },
         {
           "title": "雪狐桑",
-          "description": "雪狐桑是一名2020年9月26日开始使用虚拟形象（雪狐）在Bilibili活动的个人势虚拟UP主。",
+          "description": "个人势虚拟UP主。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/5/5d/%E9%9B%AA%E7%8B%90%E6%A1%91%E7%9C%8B%E6%9D%BF.png/280px-%E9%9B%AA%E7%8B%90%E6%A1%91%E7%9C%8B%E6%9D%BF.png"
         },
         {
           "title": "穆小泠",
-          "description": "穆小泠是从2020年1月24日开始在Bilibili活动的一名虚拟UP主。",
+          "description": "个人势虚拟UP主。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/f/f8/%E7%A9%86%E5%B0%8F%E6%B3%A03.0-1.jpg/280px-%E7%A9%86%E5%B0%8F%E6%B3%A03.0-1.jpg"
         },
         {
           "title": "艾尔莎·霍德芬拉克斯·约克",
           "displayTitle": "艾尔莎",
-          "description": "艾尔莎，全名艾尔莎·霍德芬拉克斯·约克（英语：Elza Hodophilax York）是一名从2021年8月21日在bilibili平台开始活动的虚拟UP主。作为业界团体RedCircle三期生出道，后自2022年11月起兼任虚研社四期生。",
+          "description": "虚拟偶像事务所虚研社的成员，作为虚拟UP主社团RedCircle三期生出道，后随社团加入虚研社。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/9/96/%E8%89%BE%E5%B0%94%E8%8E%8E10w%E7%B2%89%E8%B4%BA%E5%9B%BE.jpg/420px-%E8%89%BE%E5%B0%94%E8%8E%8E10w%E7%B2%89%E8%B4%BA%E5%9B%BE.jpg"
         },
         {
           "title": "红晓音",
-          "description": "红晓音（日语：紅（くれない） 暁音（あかね））是Project SP所属的一位虚拟UP主，正式出道于2019年8月7日。",
+          "description": "虚拟艺人团体psplive的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/b/b0/%E7%BA%A2%E6%99%93%E9%9F%B3_mage.png/348px-%E7%BA%A2%E6%99%93%E9%9F%B3_mage.png"
         },
         {
           "title": "希亚娜",
-          "description": "希亚娜（Ciyana）是一名活跃于bilibili的个人势虚拟UP主，是一只哭包梦魇。于2021年2月1日出道，2021年2月14日首播。",
+          "description": "个人势虚拟UP主。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/5/5e/%E5%B8%8C%E4%BA%9A%E5%A8%9Cfanart1.jpg/420px-%E5%B8%8C%E4%BA%9A%E5%A8%9Cfanart1.jpg"
         },
         {
           "title": "明前奶绿",
-          "description": "明前奶绿是一名从2022年9月17日在Bilibili开始正式活动的虚拟UP主。",
+          "description": "个人势虚拟UP主。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/9/91/Mingqiannailv_2000_jian_poster.jpg/420px-Mingqiannailv_2000_jian_poster.jpg"
         },
         {
           "title": "凤玲天天",
-          "description": "凤玲天天（鳳玲天々 / Hourei Tenten）是一位个人势虚拟Youtuber。2019年11月10日在Youtube开始了VTuber活动，随后在2019年11月11日入驻B站。",
+          "description": "个人势虚拟UP主。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/f/f9/79749360_p0.jpg/420px-79749360_p0.jpg"
         },
         {
           "title": "桃濑雪绘",
-          "description": "桃濑雪绘（Yukie）是一位隶属于VirtuaReal七期的虚拟UP主，同时也是VirtuaReal的混音师。",
+          "description": "虚拟艺人企划VirtuaReal的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/f/f7/%E9%9B%AA%E7%BB%98%E5%B0%8F%E5%A4%B4.png"
         },
         {
           "title": "光一",
-          "description": "光一（Kouichi）是一位隶属于VirtuaReal二期的虚拟UP主。",
+          "description": "虚拟艺人企划VirtuaReal的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/f/f0/%E4%B8%AD%E5%8D%95%E5%85%89%E4%B8%80%E5%8D%8A%E8%BA%AB.jpeg/420px-%E4%B8%AD%E5%8D%95%E5%85%89%E4%B8%80%E5%8D%8A%E8%BA%AB.jpeg"
         },
         {
           "title": "阿梓",
-          "description": "阿梓（Azusa）是一名活跃于Bilibili的VirtuaReal Link所属虚拟UP主。",
+          "description": "虚拟艺人企划VirtuaReal的成员，隶属于分支VirtuaReal Link。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/2/2c/%E7%AB%8B%E7%BB%98_%E8%BE%83%E9%AB%98%E6%B8%85%E7%89%88.png/420px-%E7%AB%8B%E7%BB%98_%E8%BE%83%E9%AB%98%E6%B8%85%E7%89%88.png"
         },
         {
           "title": "小可(虚拟UP主)",
           "displayTitle": "小可",
-          "description": "小可学妹是一名活跃于Bilibili的VirtuaReal Link所属虚拟UP主。",
+          "description": "虚拟艺人企划VirtuaReal的成员，隶属于分支VirtuaReal Link。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/e/e4/%E5%A4%A7%E5%8F%AF%E5%AD%A6%E5%A7%90.png/420px-%E5%A4%A7%E5%8F%AF%E5%AD%A6%E5%A7%90.png"
         },
         {
           "title": "菜菜子",
-          "description": "菜菜子(Nanako)是VirtuaReal旗下的项目VirtuaReal Star所属的虚拟艺人。",
+          "description": "虚拟艺人企划VirtuaReal的成员，隶属于分支VirtuaReal Star。",
           "imageSrc": "https://img.moegirl.org.cn/common/c/cb/%E8%8F%9C%E8%8F%9C%E5%AD%90%E5%A4%B4%E5%9B%BE.png"
         },
         {
           "title": "胡桃Usa",
-          "description": "胡桃Usa(Kurumi Usa) 是活跃在bilibili和YouTube的虚拟UP主，隶属于普罗维登。",
+          "description": "虚拟艺人企划Providence（普罗维登）的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/7/7f/%E8%83%A1%E6%A1%83Usa%E8%83%8C%E6%99%AF%E5%9B%BE.jpg/420px-%E8%83%A1%E6%A1%83Usa%E8%83%8C%E6%99%AF%E5%9B%BE.jpg"
         },
         {
           "title": "杜松子",
-          "description": "杜松子是一名从2020年4月30日开始在bilibili活动的虚拟UP主、中国内地女性配音演员，音熊联萌旗下虚拟主播组合猫邮社（Owlpost）的一员。",
+          "description": "中国内地女性配音演员，配音工作室音熊联萌旗下虚拟偶像企划猫邮社的一员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/3/30/%E6%9D%9C%E6%9D%BE%E5%AD%90-Q%E7%89%88-%E4%B8%8B%E6%B5%B7.jpg/420px-%E6%9D%9C%E6%9D%BE%E5%AD%90-Q%E7%89%88-%E4%B8%8B%E6%B5%B7.jpg"
         },
         {
           "title": "黎歌",
-          "description": "黎歌是一名从2020年11月4日在Bilibili开始活动的虚拟UP主，曾所属于业界团体EraVerse，目前隶属于业界团体虚研社。",
+          "description": "个人势虚拟UP主，曾为EraVerse、虚研社的成员，现挂靠于虚研社。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/dd/%E9%BB%8E%E6%AD%8C_%E5%A4%B4%E5%9B%BE.jpg/420px-%E9%BB%8E%E6%AD%8C_%E5%A4%B4%E5%9B%BE.jpg"
         },
         {
           "title": "小铃久绘",
-          "description": "小铃久绘（こすず ひさえ/Kosuzu Hisae）是一名从2021年03月20日在bilibili开始活动的个人势虚拟UP主。",
+          "description": "个人势虚拟UP主。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/4/40/%E5%B0%8F%E9%93%83%E4%B9%85%E7%BB%98.jpg/420px-%E5%B0%8F%E9%93%83%E4%B9%85%E7%BB%98.jpg"
         },
         {
           "title": "卡缇娅",
-          "description": "卡缇娅是Nebula-Beat所属虚拟艺人，原虚拟偶像女团《ReVdol》成员，于2022年4月16日首次露面，2022年5月1日正式出道。",
+          "description": "虚拟艺人团体iStella的成员，曾为企划《战斗吧歌姬！》、星律动的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/f/fa/NB%E8%89%BA%E4%BA%BA%E5%8D%A1%E7%BC%87%E5%A8%85.jpg/420px-NB%E8%89%BA%E4%BA%BA%E5%8D%A1%E7%BC%87%E5%A8%85.jpg"
         },
         {
-          "title": "叶河黎",
-          "description": "叶河黎是Nebula-Beat旗下的虚拟UP主，自2022年10月21日起在bilibili活动。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/d6/%E5%8F%B6%E6%B2%B3%E9%BB%8E_%E4%BA%BA%E5%BD%A2%E6%80%81%E5%AE%98%E5%9B%BE.PNG/420px-%E5%8F%B6%E6%B2%B3%E9%BB%8E_%E4%BA%BA%E5%BD%A2%E6%80%81%E5%AE%98%E5%9B%BE.PNG"
-        },
-        {
           "title": "宣小纸",
-          "description": "宣小纸是Nebula-Beat旗下的虚拟UP主，自2022年10月31日起在bilibili活动。",
+          "description": "虚拟艺人团体iStella的成员，曾为星律动的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/7/71/%E5%AE%A3%E5%B0%8F%E7%BA%B8%E6%B5%B7%E6%8A%A5.png/420px-%E5%AE%A3%E5%B0%8F%E7%BA%B8%E6%B5%B7%E6%8A%A5.png"
         }
       ]
@@ -306,206 +299,186 @@
       "pages": [
         {
           "title": "绊爱",
-          "description": "绊爱（キズナアイ）是YouTube上一个虚拟YouTuber，自称为世界第一个Virtual YouTuber，YouTube频道名为A.I.Channel。",
+          "description": "Kizuna AI株式会社独立运营的虚拟YouTuber，被认为是世界上第一个虚拟YouTuber。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/6/6e/2022_Hello_World.png/280px-2022_Hello_World.png"
         },
         {
           "title": "神乐七奈",
-          "description": "神楽七奈（かぐらなな Kagura Nana）是画师ななかぐら的虚拟YouTuber形象，于2018年12月28日开始在YouTube上作为个人势活动，并从2019年3月24日开始亦在bilibili直播并活动。",
+          "description": "日本画师ななかぐら的虚拟YouTuber形象。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/a/a7/%E7%A5%9E%E4%B9%90%E4%B8%83%E5%A5%88.png/280px-%E7%A5%9E%E4%B9%90%E4%B8%83%E5%A5%88.png"
         },
         {
           "title": "月之美兔",
-          "description": "月ノ美兎（つきのみと／Tsukino Mito）是隶属于彩虹社的虚拟YouTuber。",
+          "description": "虚拟艺人团体彩虹社的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/f/f9/%E6%9C%88%E4%B9%8B%E7%BE%8E%E5%85%94%E5%9C%B0%E9%9B%B7%E8%A3%85.jpg/399px-%E6%9C%88%E4%B9%8B%E7%BE%8E%E5%85%94%E5%9C%B0%E9%9B%B7%E8%A3%85.jpg"
         },
         {
           "title": "莉泽·赫露艾斯塔",
-          "description": "莉泽·赫露艾斯塔 （ 日语：リゼ・ヘルエスタ / Lize Helesta）是一名从2019年3月23日在YouTube开始活动的VTuber，业界团体彩虹社所属的成员。",
+          "description": "虚拟艺人团体彩虹社的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/f/f8/EYyppnfU0AA-8iV.jpg/282px-EYyppnfU0AA-8iV.jpg"
         },
         {
           "title": "天宫心",
-          "description": "天宫心 （日语：天宮こころ / あまみや こころAmamiya Kokoro ）是一名从2019年8月13日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。",
+          "description": "虚拟艺人团体彩虹社的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/7/76/%E5%A4%A9%E5%AE%AB%E5%BF%83%E7%BB%981.png/375px-%E5%A4%A9%E5%AE%AB%E5%BF%83%E7%BB%981.png"
         },
         {
           "title": "物述有栖",
-          "description": "物述有栖 （日语：物述有栖 / もののべ ありすMononobe Alice ）是一名从2018年3月13日在YouTube开始活动的VTuber，业界团体彩虹社的成员。",
+          "description": "虚拟艺人团体彩虹社的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/f/f0/201%E7%88%B1%E4%B8%BD%E4%B8%9D%E5%8D%A1%E7%89%8C.png/280px-201%E7%88%B1%E4%B8%BD%E4%B8%9D%E5%8D%A1%E7%89%8C.png"
         },
         {
           "title": "壹百满天原莎乐美",
-          "description": "壹百满天原莎乐美 （壱百満天原サロメ / Hyakumantenbara Salome）是一名从2022年5月在YouTube平台开始活动的虚拟YouTuber，所属于业界团体彩虹社。",
+          "description": "虚拟艺人团体彩虹社的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/3/37/%E4%B8%80%E7%99%BE%E6%BB%A1%E5%A4%A9%E5%8E%9F%E8%8E%8E%E4%B9%90%E7%BE%8E_%E5%A4%B4%E5%9B%BE.jpg/282px-%E4%B8%80%E7%99%BE%E6%BB%A1%E5%A4%A9%E5%8E%9F%E8%8E%8E%E4%B9%90%E7%BE%8E_%E5%A4%B4%E5%9B%BE.jpg"
         },
         {
           "title": "葛叶(虚拟UP主)",
           "displayTitle": "葛叶",
-          "description": "葛叶（Kuzuha）是现隶属于彩虹社的虚拟YouTuber，比彩虹社二期生出道时间还要更早，于2018年3月8日以个人势身份开始VTuber活动。在7月30日作为“彩虹社Gamers”第三弹成员和魔界ノりりむ、椎名唯华、雪汝同期正式出道。",
+          "description": "虚拟艺人团体彩虹社的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/a/af/Kuzuha-1.jpg"
         },
         {
           "title": "叶(虚拟UP主)",
           "displayTitle": "叶",
-          "description": "叶（Xié）是隶属于彩虹社的虚拟YouTuber。2018年5月2日作为Gamers一期生和赤羽叶子一同出道。",
+          "description": "虚拟艺人团体彩虹社的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/9/99/%E5%8F%B6_%E5%B0%81%E9%9D%A23.0.jpg/420px-%E5%8F%B6_%E5%B0%81%E9%9D%A23.0.jpg"
         },
         {
           "title": "本间向日葵",
-          "description": "本间向日葵（ほんまひまわり，Honma Himawari）是于2018年7月6日在Youtube上开始活动的VTuber，隶属于业界团队彩虹社。",
+          "description": "虚拟艺人团体彩虹社的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/d1/70909895_p0.jpg/420px-70909895_p0.jpg"
         },
         {
           "title": "笹木咲",
-          "description": "笹木咲（ 日语：笹木咲 / ささき（sasaki） さく（saku））是一名从2018年7月7日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。原Gamers出身。",
+          "description": "虚拟艺人团体彩虹社的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/3/3e/%E7%AC%B9%E6%9C%A8%E7%BB%981.png/452px-%E7%AC%B9%E6%9C%A8%E7%BB%981.png"
         },
         {
           "title": "安洁·卡特莉娜",
-          "description": "安洁·卡特莉娜（日语：アンジュ・カトリーナ）是一名隶属于彩虹社的虚拟主播，2019年3月22日开始活动。",
+          "description": "虚拟艺人团体彩虹社的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/c/c0/%E5%AE%89%E6%B4%812021%E7%94%9F%E6%97%A5.jpeg/423px-%E5%AE%89%E6%B4%812021%E7%94%9F%E6%97%A5.jpeg"
         },
         {
           "title": "剑持刀也",
-          "description": "剑持刀也（剣持刀也 / けんもち とうや / Kenmochi Toya）是隶属于彩虹社原二期生的一名VTuber。",
+          "description": "虚拟艺人团体彩虹社的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/b/bc/%E5%89%91%E6%8C%81%E5%88%80%E4%B9%9F%E7%BB%981.png/420px-%E5%89%91%E6%8C%81%E5%88%80%E4%B9%9F%E7%BB%981.png"
         },
         {
           "title": "修女·克蕾雅",
-          "description": "修女·克蕾雅（シスター・クレア / Sister Cleaire）是一名从2018年6月5日在YouTube开始活动的VTuber，业界团体彩虹社的成员。原SEEDs一期出身。",
+          "description": "虚拟艺人团体彩虹社的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/9/9e/Sister_Cleaire.jpg/420px-Sister_Cleaire.jpg"
         },
         {
           "title": "鹿乃樱帆",
-          "description": "鹿乃樱帆（鹿乃まほろ／かの まほろ／Kano Mahoro）是虚拟UP主。2019年8月1日至2021年2月15日期间以鹿乃（鹿乃／かの／Kano）的名义作为Vtuber组合花寄女子寮的三年级生进行活动。企划解散后更为现名继续活动。",
+          "description": "个人势虚拟YouTuber，曾以鹿乃的名义作为虚拟YouTubeR组合花寄女子寮的三年级生进行活动。组合解散后更为现名继续活动。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/1/1a/Kano_mahoro_new_key_visual.jpg/280px-Kano_mahoro_new_key_visual.jpg"
         },
         {
           "title": "猫宫日向",
-          "description": "猫宮 ひなた 是从2018年2月开始活动的日本虚拟YouTuber。",
+          "description": "个人势虚拟YouTuber，曾加入虚拟YouTuber事务所ENTUM。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/9/9c/Nekomiya_Hinata_Creator002.png/420px-Nekomiya_Hinata_Creator002.png"
         },
         {
-          "title": "未来明",
-          "description": "未来明（日语：ミライアカリ）是一名虚拟YouTuber，从2017年10月开始活动，原隶属于ENTUM，ENTUM终止旗下虚拟YouTuber相关业务后一段时间成为自由身，于2020年9月30日宣布为万代南梦宫艺术旗下厂牌GOOM STUDIO所属艺人。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/d0/MIRAI_AKARI.jpg/420px-MIRAI_AKARI.jpg"
-        },
-        {
           "title": "田中姬铃木雏",
-          "description": "田中姬和铃木雏是自2018年起活跃于YouTube和bilibili的虚拟YouTuber。",
+          "description": "Brave group旗下运营的虚拟YouTuber企划。",
           "imageSrc": "https://img.moegirl.org.cn/common/3/35/%E9%BB%91%E8%89%B2%E8%A1%A3%E8%A3%85HH.png"
         },
         {
           "title": "神乐Mea",
-          "description": "神乐Mea（神楽（かぐら）めあ，Kagura Mea）是从2018年6月28日开始活动的虚拟Youtuber。",
+          "description": "个人势虚拟YouTuber。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/6/69/72736456_p0.jpg/280px-72736456_p0.jpg"
         },
         {
           "title": "花园Serena",
-          "description": "花园Serena （花園（はなぞの）セレナ，Hanazono Serena）,是从2018年8月14日开始于Twitter活动的虚拟Youtuber，8月21发推正式进行活动[2]，于2018年9月16日在YouTube上传了首个视频[3]，すとらす中的一 员 ，于2018年12月14日并入ぱりぷろ。2019年4月12日ぱりぷろ解散。现为P家成员。",
+          "description": "个人势虚拟YouTuber，曾为P家、Virtual Cinderella Project的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/3/33/%E8%8A%B1%E5%9B%ADSerena03.png/280px-%E8%8A%B1%E5%9B%ADSerena03.png"
         },
         {
-          "title": "有栖Mana",
-          "description": "有栖Mana（有栖（アリス）マナ，아리스 마나，Alice Mana）是从2018年8月1日开始活动的虚拟UP主。原Project Paryi成员，Project Paryi解散后加入541E&C企划。由于企划合并问题于2020年2月25日宣布引退。2020年9月1日回归，2020年10月24日作为P家成员活动至今。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/b/b2/%E6%9C%89%E6%A0%96mana%E5%A4%B4%E5%9B%BE%E7%93%A6%E7%93%A6%E5%AD%90%E7%89%88.jpg/280px-%E6%9C%89%E6%A0%96mana%E5%A4%B4%E5%9B%BE%E7%93%A6%E7%93%A6%E5%AD%90%E7%89%88.jpg"
-        },
-        {
           "title": "雫Lulu",
-          "description": "雫Lulu（日语：雫るる）是一名活跃于bilibili、QQ群的虚拟UP主，原隶属于フェレット女学院（雪貂女学院），现转为个人势。",
+          "description": "个人势虚拟UP主，曾为フェレット女学院（雪貂女学院）的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/e/ed/Lulu_vtuber.png/280px-Lulu_vtuber.png"
         },
         {
           "title": "真白花音",
-          "description": "真白花音（眞白（ましろ）かのん，Mashiro Kanon）是从2019年5月7日开始活动的个人势VTuber，企划「ちゅこらら（Chucolala）」的一员。2019年10月24日发布推特宣告将于10月末引退。2020年12月1日在推特上宣告复活。现已加入P家，是P家目前最活跃的成员。",
+          "description": "虚拟YouTuber组织P家的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/4/43/%E7%9C%9F%E7%99%BD%E8%8A%B1%E9%9F%B3%E4%B8%A4%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5.jpg/280px-%E7%9C%9F%E7%99%BD%E8%8A%B1%E9%9F%B3%E4%B8%A4%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5.jpg"
         },
         {
           "title": "夏诺雅(虚拟UP主)",
           "displayTitle": "夏诺雅",
-          "description": "夏诺雅（しゃのあ（shanoa））是自2018年在YouTube上活动的ASMR主播，2020年10月24日公开Live2D形象，开始以虚拟YouTuber形式活动。",
+          "description": "虚拟UP主企划MUGEN-LIVE的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/d9/Shanoa_2022.jpg/450px-Shanoa_2022.jpg"
         },
         {
           "title": "乙女音",
-          "description": "乙女音（乙女（おとめ）おと，Otome Oto）是从2019年3月17日开始活动的虚拟YouTuber，企划“ちゅこらら（Chucolala）”的一员。",
+          "description": "虚拟YouTuber组织P家的成员，也是企划ちゅこらら（Chucolala）的一员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/9/9e/%E4%B9%99%E5%A5%B3%E9%9F%B3%E5%A1%94%E7%BD%97%E7%89%8C.jpg/280px-%E4%B9%99%E5%A5%B3%E9%9F%B3%E5%A1%94%E7%BD%97%E7%89%8C.jpg"
         },
         {
           "title": "帕里",
-          "description": "帕里（Paryi，パリィ）是来自日本的个人插画师，于2018年3月开始活动，2019年1月开始作为虚拟Youtuber活动。现为P家成员。",
+          "description": "日本画师，后作为虚拟YouTuber活动，为P家成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/3/33/Paryi_2020new.jpg/280px-Paryi_2020new.jpg"
         },
         {
           "title": "电脑少女Siro",
-          "description": "电脑少女小白（日语：電脳少女シロ）是YouTube上的一名虚拟YouTuber，于2017年6月28日开始活动。",
+          "description": "虚拟YouTuber企划.LIVE的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/d0/Computer_Girl_Siro.jpg/420px-Computer_Girl_Siro.jpg"
         },
         {
           "title": "犬山玉姬",
-          "description": "犬山玉姬（犬山たまき / いぬやま たまき / Inuyama tamaki）是从2018年9月29日正式开始活跃在YouTube网站的虚拟YouTuber，组织Noripro成员（综艺组）。",
+          "description": "虚拟艺人团体Noripro的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/1/18/%E7%8A%AC%E5%B1%B12.0.png/420px-%E7%8A%AC%E5%B1%B12.0.png"
         },
         {
-          "title": "辉夜月",
-          "description": "辉夜月是从2017年12月开始活动的虚拟YouTuber。梦想是「成为让大家展现笑容的 YouTuber」。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/e/e3/Kaguya_Luna.jpg/420px-Kaguya_Luna.jpg"
-        },
-        {
           "title": "Nekomasu",
-          "description": "Nekomasu（日语：ねこます），通称虚拟口癖萝莉狐娘YouTuber大叔（日语：バーチャルのじゃロリ狐娘Youtuberおじさん），是YouTube上的YouTuber。2015年6月8日开始活动，并在2017年11月8日以虚拟YouTuber身份进行活动。",
+          "description": "个人势虚拟YouTuber。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/5/5b/Mikoko_Nekomasu.jpg/420px-Mikoko_Nekomasu.jpg"
         },
         {
           "title": "名取纱那",
-          "description": "名取纱那（名取 さな / Natori Sana）是一名YouTube上的护士系虚拟Youtuber。",
+          "description": "个人势虚拟YouTuber。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/1/19/72059599_p0.png/420px-72059599_p0.png"
         },
         {
           "title": "因幡Haneru",
-          "description": "因幡Haneru(因幡はねる/Inaba Haneru)是774 inc.旗下团体「有閑喫茶あにまーれ」所属的Vtuber。",
+          "description": "虚拟YouTuber事务所ななしいんく的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/a/a9/HaneruAva.jpg"
         },
         {
           "title": "周防帕特拉",
-          "description": "周防帕特拉（周防パトラ·すおう（Suou） パトラ（Patra））是活跃于YouTube上的一位日本女性虚拟YouTuber，为Honey Strap的成员之一。",
+          "description": "个人势虚拟UP主，曾为なしいんく的成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/7/7f/Suou_Patra.jpg/420px-Suou_Patra.jpg"
         },
         {
           "title": "时雨羽衣",
-          "description": "时雨羽衣（しぐれうい ／ Shigure Ui）是一名日本的插画家、漫画家。同时以个人势VTuber身份从2019年5月18日在YouTube开展相关活动。",
+          "description": "日本画师，后作为个人势虚拟YouTuber活动。",
           "imageSrc": "https://img.moegirl.org.cn/common/f/fe/ShigureUi_icon.jpg"
         },
         {
           "title": "花谱",
-          "description": "花谱（かふ）是一名2018年10月开始以3D虚拟模型形象出道的虚拟歌手。",
+          "description": "神椿旗下的虚拟歌手。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/5/5c/%E8%8A%B1%E8%B0%B1.png/420px-%E8%8A%B1%E8%B0%B1.png"
         },
         {
           "title": "YuNi",
-          "description": "YuNi 是从2018年5月开始活动的日本女性虚拟YouTuber。自称为世界第一个Virtual singer。正式出道于2018年6月14日。前Upd8企划成员，在2020年8月14日移籍至Toy's Factory。",
+          "description": "隶属于唱片公司TOY'S FACTORY的虚拟歌手，曾加入虚拟艺人支持计划upd8。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/e/e4/69232508_p0.png/420px-69232508_p0.png"
         },
         {
           "title": "星宫汐",
-          "description": "星宫汐（星宮汐，Hosimiya Sio）是一名活跃于Twitch和Bilibili的虚拟Youtuber。",
+          "description": "个人势虚拟UP主。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/7/78/%E6%98%9F%E5%AE%AB%E6%B1%90%E5%90%8C%E4%BA%BA_by_%E4%BA%8C%E7%94%9Fm.jpg/420px-%E6%98%9F%E5%AE%AB%E6%B1%90%E5%90%8C%E4%BA%BA_by_%E4%BA%8C%E7%94%9Fm.jpg"
         },
         {
           "title": "九重紫",
-          "description": "九重紫（日语：九重（ここのえ） 紫（ゆかり））是活动于bilibili和YouTube的个人势虚拟主播。",
+          "description": "个人势虚拟UP主。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/3/3d/%E4%B9%9D%E9%87%8D%E7%B4%AB11.jpg/420px-%E4%B9%9D%E9%87%8D%E7%B4%AB11.jpg"
         },
         {
           "title": "宣伃珍",
-          "description": "宣伃珍（韩语：선여진，Sunyeojin）通称伃珍公主、孙有劲，是来自韩国的语音主播、虚拟UP主。",
+          "description": "个人势虚拟UP主。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/3/34/%E5%AE%A3%E4%BC%83%E7%8F%8D%E5%8D%8A%E8%BA%AB.png/420px-%E5%AE%A3%E4%BC%83%E7%8F%8D%E5%8D%8A%E8%BA%AB.png"
-        },
-        {
-          "title": "东云惠",
-          "description": "东云惠（日语：東雲めぐ）是由五十岚拓也所设计的虚拟人物，原Gugenka所属的虚拟YouTuber兼虚拟音MADer（自2021年9月起转为个人势），原本是动画《うたっておんぷっコ♪》中的角色。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/d4/%E6%9D%B1%E9%9B%B2%E3%82%81%E3%81%90.jpeg/420px-%E6%9D%B1%E9%9B%B2%E3%82%81%E3%81%90.jpeg"
         }
       ]
     },
@@ -515,62 +488,57 @@
       "pages": [
         {
           "title": "Maria Marionette",
-          "description": "Maria Marionette（日语：マリア マリオネット） 是彩虹社所属，隶属于NIJISANJI EN第六期ILUNA组合的虚拟YouTuber，2022年7月20日开始活动。",
+          "description": "虚拟艺人团体彩虹社的成员，隶属于分支NIJISANJI EN。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/1/16/MariaMarionette_painting1.jpeg/280px-MariaMarionette_painting1.jpeg"
         },
         {
           "title": "Hiiro",
-          "description": "Hiiro（希萝）是个人势英语系虚拟主播，目前在B站活动。",
+          "description": "个人势虚拟UP主。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/dd/Hiiro_skin2.jpg/280px-Hiiro_skin2.jpg"
         },
         {
           "title": "Elira Pendora",
-          "description": "Elira Pendora是NIJISANJI于2021年5月12日推出隶属于NIJISANJI EN的组合LazuLight的成员",
+          "description": "虚拟艺人团体彩虹社的成员，属于分支NIJISANJI EN。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/1/1e/Elira_Pendora.png/282px-Elira_Pendora.png"
         },
         {
           "title": "Petra Gurin",
-          "description": "Petra Gurin是NIJISANJI于2021年7月14日推出的企划NIJISANJI EN的二期生，组合OBSYDIA的成员。",
+          "description": "虚拟艺人团体彩虹社的成员，属于分支NIJISANJI EN。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/f/f7/EN-Petra_Gurin%E8%83%8C%E6%99%AF.jpg/280px-EN-Petra_Gurin%E8%83%8C%E6%99%AF.jpg"
         },
         {
           "title": "Enna Alouette",
-          "description": "Enna Alouette（日语：エナー・アールウェット）是一名从2021年10月9日在YouTube开始活动的虚拟YouTuber，所属于业界团体NIJISANJI。",
+          "description": "虚拟艺人团体彩虹社的成员，属于分支NIJISANJI EN。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/d4/Enna_Alouette%28%E5%90%8C%E4%BA%BA%E5%9B%BE%29.jpeg/282px-Enna_Alouette%28%E5%90%8C%E4%BA%BA%E5%9B%BE%29.jpeg"
         },
         {
           "title": "Vox Akuma",
-          "description": "Vox Akuma（日语：ヴォックス・アクマ）是一名从2021年12月20日在YouTube开始活动的虚拟UP主，所属于业界团体NIJISANJI。",
+          "description": "虚拟艺人团体彩虹社的成员，属于分支NIJISANJI EN。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/3/37/Vox_Akuma%28%E5%90%8C%E4%BA%BA%E5%9B%BE1%29.jpeg/420px-Vox_Akuma%28%E5%90%8C%E4%BA%BA%E5%9B%BE1%29.jpeg"
         },
         {
           "title": "Hana Macchia",
-          "description": "Hana Macchia（ 日语：ハナ・マキア ）是一名从2019年9月13日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。原印度尼西亚（ID）一期出身。",
+          "description": "虚拟艺人团体彩虹社的成员，原隶属于分支NIJISANJI ID。",
           "imageSrc": "https://img.moegirl.org.cn/common/3/31/HanaMacchia_Icon.png"
         },
         {
           "title": "Shoto",
-          "description": "Shoto是一名从2019年在Twitch平台开始活动的个人势虚拟UP主。",
+          "description": "个人势虚拟YouTuber。",
           "imageSrc": "https://img.moegirl.org.cn/common/6/63/Shoto%E6%8E%A8%E7%89%B9%E5%A4%B4%E5%83%8F.jpeg"
         },
         {
-          "title": "Nabi",
-          "description": "なび是韩国的插画家，亦有以蒼彩なび的名称作为VTuber活动。",
-          "imageSrc": "https://img.moegirl.org.cn/common/5/54/Nabi.jpg"
-        },
-        {
           "title": "Nyanners",
-          "description": "Nyanners （Nyatasha Nyanners） 是一名从2011年开始活动泛ACGN类影片主、网络配音爱好者、网络歌手、直播者、VTuber。",
+          "description": "Mythic Talent旗下的虚拟YouTuber，曾为VShojo成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/7/70/Nyanners_Icon.png/420px-Nyanners_Icon.png"
         },
         {
           "title": "Veibae",
-          "description": "Veibae是一名英语系VTuber，之前为个人势，2021年4月9日宣布加入VShojo。",
+          "description": "个人势虚拟YouTuber，曾为VShojo成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/d3/VShojo_Veibae_portrait.webp/420px-VShojo_Veibae_portrait.webp.png"
         },
         {
           "title": "Taffy Nekuma",
-          "description": "草莓猫Taffy（Taffy Nekuma）是一名个人势(?)虚拟偶像。目前主要在Bilibili、Twitch平台进行直播活动。2022年12月21日加入同好团体GAKILIVE。",
+          "description": "个人势虚拟YouTuber，GakiLive组合成员。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/5/5e/Taffy_Nekuma%E4%BA%94%E4%B8%87%E7%B2%89%E8%B4%BA%E5%9B%BE.jpg/420px-Taffy_Nekuma%E4%BA%94%E4%B8%87%E7%B2%89%E8%B4%BA%E5%9B%BE.jpg"
         }
       ]
